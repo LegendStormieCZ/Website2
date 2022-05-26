@@ -154,38 +154,5 @@
 .u-section-1 .u-icon-1 {
   width: 64px;
   height: 64px;
-  margin: -210px auto 0;
-}
-
-.u-section-1 .u-btn-1 {
-  border-style: none;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 0.875rem;
-  letter-spacing: 1px;
-  margin: -109px calc(((100% - 1140px) / 2)) 60px auto;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-btn-1 {
-    margin-right: calc(((100% - 940px) / 2));
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1 .u-btn-1 {
-    margin-right: calc(((100% - 720px) / 2));
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-1 .u-btn-1 {
-    margin-right: calc(((100% - 540px) / 2));
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-btn-1 {
-    margin-right: calc(((100% - 340px) / 2));
-  }
+  margin: -210px auto 60px;
 }
